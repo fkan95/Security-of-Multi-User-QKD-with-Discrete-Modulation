@@ -4,7 +4,7 @@ authors:
   - family-names: Kanitschar
     given-names: Florian
     orcid: https://orcid.org/0000-0002-9638-5691
-title: "Supporting Data and Software for Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
+title: "Supporting Data for Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
 version: 1.0.0
 identifiers:
   - type: doi
